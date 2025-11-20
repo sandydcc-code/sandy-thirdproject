@@ -1,1 +1,2 @@
 # sandy-thirdproject
+This document outlines the key information, objectives, and considerations relevant to the project. It serves as a working reference and will continue to evolve as new insights and requirements emerge.
